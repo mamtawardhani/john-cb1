@@ -1,1 +1,2 @@
-# john-cb1
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
